@@ -1,5 +1,11 @@
 /* styles.css */
+ul {
+  list-style: none;
+}
 body {
-    background-color: rgb(187, 173, 94);
-  }
-  
+  background-color: rgb(187, 173, 94);
+}
+
+nav {
+  display: flex;
+}
